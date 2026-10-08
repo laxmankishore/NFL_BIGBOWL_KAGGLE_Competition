@@ -1,0 +1,13 @@
+# Python 3.12. Install: uv venv --python 3.12 .venv && uv pip install -r requirements.txt
+ipykernel==7.4.0
+matplotlib==3.11.2
+nbconvert==7.17.1
+nbformat==5.11.1
+numpy==2.5.3
+pandas==3.0.6
+polars==2.0.0
+pyarrow==25.0.1
+scipy==1.18.1
+seaborn==0.13.2
+statsmodels==0.15.0
+pytest==9.1.1
